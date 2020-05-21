@@ -13,11 +13,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 
-    background-image: url("../images/background_tile.jfif");
+    background-color: whitesmoke
 
 }
 .row {
-    background-image: url("../images/grey_back.jpg");
+    background-color: cadetblue;
     padding: 15px;
     
     
